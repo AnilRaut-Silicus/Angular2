@@ -1,1 +1,3 @@
 Initial file 2 changes in Master
+
+Additional changes to File 2
